@@ -1,6 +1,6 @@
-package me.skyler.skylerpgm;
+package me.skylertyler.skylerpgm;
 
-import me.skyler.skylerpgm.utils.LogUtils;
+import me.skylertyler.skylerpgm.utils.LogUtils;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
